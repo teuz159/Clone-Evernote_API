@@ -28,3 +28,4 @@ em sua senha, a mesma era armazena já criptografada pelo BCrypt. Nosso middlewa
 2. `npm install` para instalar todas as dependências do projeto
 3. Não se esqueça de se conectar com seu banco de dados na pasta config alterando o database.js
 4. `npx nodemon` para iniciar a API. Você pode testar com o POSTMAN.
+5. Deploy: [JavaScript Notes](https://app-notes-client.herokuapp.com/)
